@@ -1,4 +1,4 @@
-This mini-project involves using most common indicators to perform technical analysis of Bitcoin price data.
+This mini-project involves using most common indicators(like MACD, CCI, Bollinger Bands) to perform technical analysis of Bitcoin price data.
 
 ## Files
 1. btc.csv
